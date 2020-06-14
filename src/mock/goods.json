@@ -1,0 +1,12 @@
+{
+   "status":"0",
+   "msg":"",
+   "result":[
+     {
+       "id":"1",
+       "name":"shouji",
+       "price":"2222",
+       "img":"1.jpg"
+     }
+   ]
+}
